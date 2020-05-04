@@ -3,9 +3,12 @@ In this project, we will use Yelp datasets from Kaggle that have been hosted on 
 
 ### Data
 Links to AWS s3 Datasets:
-Business Dataset: s3://yelps3/Yelp_dataset/yelp_academic_dataset_business.json
-Review Dataset: s3://yelps3/Yelp_dataset/yelp_academic_dataset_review.json
-Users Dataset: s3://yelps3/Yelp_dataset/yelp_academic_dataset_user.json
+
+Business Dataset: [s3://yelps3/Yelp_dataset/yelp_academic_dataset_business.json](s3://yelps3/Yelp_dataset/yelp_academic_dataset_business.json)
+
+Review Dataset: [s3://yelps3/Yelp_dataset/yelp_academic_dataset_review.json](s3://yelps3/Yelp_dataset/yelp_academic_dataset_review.json)
+
+Users Dataset: [s3://yelps3/Yelp_dataset/yelp_academic_dataset_user.json](s3://yelps3/Yelp_dataset/yelp_academic_dataset_user.json)
 
 ### Cluster & Notebook Configurations
 
