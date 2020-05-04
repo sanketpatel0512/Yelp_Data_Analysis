@@ -11,6 +11,8 @@ Review Dataset: [s3://yelps3/Yelp_dataset/yelp_academic_dataset_review.json](s3:
 Users Dataset: [s3://yelps3/Yelp_dataset/yelp_academic_dataset_user.json](s3://yelps3/Yelp_dataset/yelp_academic_dataset_user.json)
 
 ### Cluster & Notebook Configurations
+![Cluster Config](assets/Screenshot_Cluster.png)
+![Notebook Config](assets/Screenshot_notebook.png)
 
 
 ### Analysis
